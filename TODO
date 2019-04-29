@@ -1,0 +1,7 @@
+Steps:
+    1. Neo4j:
+        ☐ container with db
+        ☐ script to parse the data and load it into the db, and create the relations
+    2. MongoDB:
+        ☐ container with db
+        ☐ script to parse the data and load it into the db
