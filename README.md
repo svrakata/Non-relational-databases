@@ -1,6 +1,11 @@
 # Non-relational-databases
 ## Non-relational databases project for SU. 
 ***
+### Questions:
+1. Every service should be in it's own container. How do I run them and organize them (Docker Composer?, Kubernetes?);
+2. Where the server runs? In its own container? 
+3. How to manage all the ip adresses, porst so everything to talk to eachother? Need an architecture?
+***
 ### Technologies:
 
 * [Docker][5]
