@@ -2,9 +2,14 @@ Steps:
     1. Neo4j:
         ✔ container with db @done(19-05-17 00:09)
         ☐ script to parse the data and load it into the db, and create the relations @started(19-05-17 00:08) (data is parsed and ready to be uploaded to neo4j)
+        ☐ some API with cypher synthax ---> not sure if possible
     2. MongoDB:
         ☐ container with db
         ☐ script to parse the data and load it into the db
 
 Common Tasks:
     ☐ create structure scheme
+    ☐ analyse the data
+
+Questions:
+    ☐ why do I need mongodb :D

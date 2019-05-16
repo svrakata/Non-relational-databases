@@ -1,10 +1,6 @@
 # Non-relational-databases
 ## Non-relational databases project for SU. 
-***
-### Questions:
-1. Every service should be in it's own container. How do I run them and organize them (Docker Composer?, Kubernetes?);
-2. Where the server runs? In its own container? 
-3. How to manage all the ip adresses, porst so everything to talk to eachother? Need an architecture?
+
 ***
 ### Technologies:
 
@@ -16,14 +12,6 @@
 ***
 ### Requirements:
 [Link](https://github.com/fmibioinfo2018/python/tree/master/nosql/exam)
-***
-
-### TODO:
-
-* Analyse the data
-* Make subtasks
-* Build the environment: docker container --> databases --> server --> api
-
 
 ***
 
